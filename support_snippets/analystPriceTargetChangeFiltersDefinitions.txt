@@ -1,0 +1,5 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The Analyst Price Target Change Category.
+Avg PT - 1Day Change %: The one day % change in the 'Average Analyst Price Target' for a stock.
+Avg PT - 1Week Change %: The one week % change in the 'Average Analyst Price Target' for a stock.
+Avg PT - 1Month Change %: The one month % change in the 'Average Analyst Price Target' for a stock.
+Avg PT - 1Year Change %: The one year % change in the 'Average Analyst Price Target' for a stock.

@@ -1,0 +1,4 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The News & Earnings Category.
+Recent News: Let's you filter for stocks which have had news on them released recently (within the past hour, past 4 hours, past day or past week).
+News Sentiment (% Positive): This is the percent of news we have detected as positive versus the amount we have detected as negative. Note that neutral news is excluded. This number is based on up to the most recent 50 news items released within the past 30 days.
+Earnings Date: Let's you filter for stocks that will be releasing earnings in the near future (today, tomorrow, within the next 5 days or next 20 days) or have released their earnings recently (today, yesterday, within the past 5 days or past 20 days).

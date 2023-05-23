@@ -1,0 +1,5 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The Price Change Since Lows Category.
+% Above 1 Week Low: The percentage (%) difference between the current price of an asset and the lowest price it traded at in the previous 5 trading days.
+% Above 1 Month Low: The percentage (%) difference between the current price of an asset and the lowest price it traded at in the previous 23 trading days.
+% Above 1 Year Low: The percentage (%) difference between the current price of an asset and the lowest price it traded at in the previous 252 trading days.
+% Above 10 Year Low: The percentage (%) difference between the current price of an asset and the lowest price it traded at in the previous 2,520 trading days.

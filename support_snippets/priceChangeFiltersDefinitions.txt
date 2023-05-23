@@ -1,0 +1,11 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The Price Change Category.
+2 Minute Move: The percentage (%) increase or decrease that an asset's price has experienced in the last 2 minutes.
+3 Minute Move: The percentage (%) increase or decrease that an asset's price has experienced in the last 3 minutes.
+5 Minute Move: The percentage (%) increase or decrease that an asset's price has experienced in the last 5 minutes.
+10 Minute Move: The percentage (%) increase or decrease that an asset's price has experienced in the last 10 minutes.
+15 Minute Move: The percentage (%) increase or decrease that an asset's price has experienced in the last 15 minutes.
+1 Day Move: The percentage (%) increase or decrease that an asset's price has experienced since the market close from the previous trading day.
+1 Week Move: The percentage (%) increase or decrease that an asset's price has experienced since the market close from 5 trading days prior.
+1 Month Move: The percentage (%) increase or decrease that an asset's price has experienced since the market close from 23 trading days prior.
+1 Year Move: The percentage (%) increase or decrease that an asset's price has experienced since the market close from 252 trading days prior.
+10 Year Move: The percentage (%) increase or decrease that an asset's price has experienced since the market close from 2,520 trading days prior.

@@ -1,0 +1,5 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The Price Change Since Highs Category.
+% Below 1 Week High: The percentage (%) difference between the current price of an asset and the highest price it traded at in the previous 5 trading days.
+% Below 1 Month High: The percentage (%) difference between the current price of an asset and the highest price it traded at in the previous 23 trading days.
+% Below 1 Year High: The percentage (%) difference between the current price of an asset and the highest price it traded at in the previous 252 trading days.
+% Below 10 Year High: The percentage (%) difference between the current price of an asset and the highest price it traded at in the previous 2,520 trading days.

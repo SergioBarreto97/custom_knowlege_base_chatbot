@@ -1,0 +1,5 @@
+pandas==1.5.3
+openai==0.27.6
+openapi-schema-pydantic==1.2.4
+pinecone-client==2.2.1
+tiktoken==0.4.0

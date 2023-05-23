@@ -1,0 +1,5 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The Analyst Ratings Upgrades Category.
+# Of Upgrades In The Last Day: The number of analyst upgrades that a stock received in the last 24 hours.
+# Of Upgrades In The Last Week: The number of analyst upgrades that a stock received in the last week.
+# Of Upgrades In The Last Month: The number of analyst upgrades that a stock received in the last month.
+# Of Upgrades In The Last Year: The number of analyst upgrades that a stock received in the last year.

@@ -1,0 +1,5 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The Volume Category.
+Average Volume: The average amount of daily volume that the stock or ETF has had in the last 3 months.
+Today's Volume: The number of shares of the stock or ETF that have been traded today.
+Relative Volume: The volume a stock or ETF has experienced today divided by its average volume.
+Smart Relative Volume: Smart relative volume is an adjusted measure of relative volume (today's volume / average volume) that takes into account how much of the trading day has passed. Example: If only half of the trading day has passed (it's 12:45pm) then we would multiply relative volume by 2.

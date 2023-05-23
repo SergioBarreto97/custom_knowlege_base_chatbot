@@ -1,0 +1,11 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The StockTwits Popularity Category.
+Trending: Stocks which have experienced a recent uptick in StockTwits engagement and are designated as trending by StockTwits.
+Total Watchers: The total amount of StockTwits watchers that an asset has on Stocktwits.
+1Hr Watchers Growth: The net amount of new StockTwits watchers gained on StockTwits in the last hour.
+1Hr Watchers Growth (%): The net growth of new StockTwits watchers in percentage terms in the last hour. This percentage is relative to the total StockTwits watchers the asset had at the beginning of the hour.Example: If TSLA had 10,000 Total watchers at 4 PM and 500 new watchers watchlisted the stock between 4 PM to 5 PM, the 1Hr Watchers Growth (%) would be 5% (500/10,000).
+1Day Watchers Growth: The net amount of new StockTwits watchers gained on StockTwits in the last 24 hours.
+1Day Watchers Growth (%): The net growth of new StockTwits watchers in percentage terms in the last 24 hours. This percentage is relative to the total StockTwits watchers the asset had at the beginning of the 24 hour period.Example: If TSLA had 10,000 Total watchers at 4 PM yesterday and 500 new watchers watchlisted the stock from then until 4 PM today, the 1Day Watchers Growth (%) would be 5% (500/10,000).
+1Week Watchers Growth: The net amount of new StockTwits watchers gained on StockTwits in the last 7 days.
+1Week Watchers Growth (%): The net growth of new StockTwits watchers in percentage terms in the last 7 days. This percentage is relative to the total StockTwits watchers the asset had at the beginning of the 7 day period. As an example, if TSLA had 10,000 Total watchers at 4 PM 7 days ago and 500 new watchers watchlisted the stock from then until 4 PM today, the 1Week Watchers Growth (%) would be 5% (500/10,000).
+Sentiment Change: The change in sentiment on StockTwits.
+Message Volume Change: The change in message volume on StockTwits.

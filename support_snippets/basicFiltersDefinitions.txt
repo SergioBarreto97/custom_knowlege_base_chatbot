@@ -1,0 +1,7 @@
+The Following Are Definitions For WallStreetOdds Filters/Metrics That Fall Under The Basic Category.
+Market Cap: The Market Capitalization of a stock, ETF or crypto.
+Sector: For stocks, it represents the segment of the economy in which a company conducts business.
+Asset Class: Separates investments based on whether they are a stock, an ETF or a crypto currency.
+Price: The current market price of an asset.
+Float Shares: The term float shares refers to the shares a company has issued to the public that are available for investors to trade. This figure is derived by taking a company's outstanding shares and subtracting any restricted stock, which is stock that is under some sort of sales restriction.
+Stock Has Options: Let's you filter and sort by whether a stock has options that trade on the market or not.
