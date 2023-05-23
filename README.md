@@ -31,4 +31,4 @@ This project is intended to be easily customizable to meet your own needs.
 
 ## Questions & Suggestions
 
-For any questions or inquiries, please contact sergiobarreto9797@gmail.com.
+For any questions or suggestions, please contact sergiobarreto9797@gmail.com.
