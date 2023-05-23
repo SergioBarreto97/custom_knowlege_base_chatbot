@@ -20,13 +20,13 @@ This project is intended to be easily customizable to meet your own needs.
 
 ## Requirements
 
-**Python Libraries**: Please see requirements.txt for necessary python libraries.
+**Python Libraries**: Please see requirements.txt for necessary python libraries.<br>
 **Additional Requirements**: You will need to open an OpenAI and Pinecone account to get started. You will also need to save your OpenAI api key in your environment variables under the name OPENAI_KEY. You will likewise, need to add your Pinecone api key in your environment variables under the name PINECONE_KEY.
 
 ## Usage
 
-**support_snippets folder**: Add your custom knowledge base support snippets here.
-**add_embeddings.py**: Follow along the script altering necessary variables/logic and run the file to convert all your support snippets into vector embeddings. This is necessary in order to be able to run answer_user_question.py.
+**support_snippets folder**: Add your custom knowledge base support snippets here.<br>
+**add_embeddings.py**: Follow along the script altering necessary variables/logic and run the file to convert all your support snippets into vector embeddings. This is necessary in order to be able to run answer_user_question.py.<br>
 **answer_user_question.py**: Follow along the script altering necessary variables/logic and run the script's get_question_response(question) function to ask gpt-3.5-turbo questions regarding your custom knowlege base.
 
 ## Questions & Suggestions
